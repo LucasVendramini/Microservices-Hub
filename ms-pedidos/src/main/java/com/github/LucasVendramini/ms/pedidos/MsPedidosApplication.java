@@ -9,7 +9,7 @@ public class MsPedidosApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MsPedidosApplication.class, args);
 
-		
+
 
 	}
 
